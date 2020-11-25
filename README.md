@@ -12,11 +12,11 @@ Tasks as follows:
 
 ## PowerBI
 
--Get familiar with Visualizations
--Top N Query 
--Dax query, reduce a dataset to remove duplicate values:
-  -Input: Table A of size 3 x N, with duplicates
-  -Output: Table B of size 2 x N_unique values
+- Get familiar with Visualizations
+- Top N Query
+- Dax query, reduce a dataset to remove duplicate values:
+  - Input: Table A of size 3 x N, with duplicates
+  - Output: Table B of size 2 x N_unique values
 
 ## Microsoft Teams (I think we should start here to improve collaboration 🙂)
 
