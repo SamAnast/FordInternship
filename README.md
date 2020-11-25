@@ -1,6 +1,6 @@
 # Ford Internship Day 1
 
-This is a repository to complete introductory tasks for the Ford Internship day 1. 
+This is a repository to complete introductory tasks for the Ford Internship day 1.
 Tasks as follows:
 
 ## GitHub
