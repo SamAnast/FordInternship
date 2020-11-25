@@ -5,10 +5,10 @@ Tasks as follows:
 
 ## GitHub
 
-- Check in / check out
-- Create new project
-- Create and edit wiki project
-- Revert to previous commit and remove a commit from the history
+- <s>Check in / check out </s>
+- <s>Create new project </s>
+- <s>Create and edit wiki project </s>
+- <s>Revert to previous commit and remove a commit from the history</s>
 
 ## PowerBI
 
@@ -20,5 +20,5 @@ Tasks as follows:
 
 ## Microsoft Teams (I think we should start here to improve collaboration 🙂)
 
-- Decide on team name
-- Add everyone to channel (Team + Mukesh)
+- <s>Decide on team name</s>
+- <s>Add everyone to channel (Team + Mukesh)</s>
